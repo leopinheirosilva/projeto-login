@@ -1,5 +1,5 @@
 # projeto-login
 
-Projeto Tela de Login
+frontend estático de tela de login com layout responsivo
 
-Clique [aqui]("https://leopinheirosilva.github.io/projeto-login/") para acessar o site!
+![screenshot da tela em tamanho desktop e mobile](midias/demo.jpg)
